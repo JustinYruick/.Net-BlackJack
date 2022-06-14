@@ -1,0 +1,32 @@
+C:\Users\Justi\source\repos\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.exe
+C:\Users\Justi\source\repos\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.deps.json
+C:\Users\Justi\source\repos\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.runtimeconfig.json
+C:\Users\Justi\source\repos\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.runtimeconfig.dev.json
+C:\Users\Justi\source\repos\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.dll
+C:\Users\Justi\source\repos\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.pdb
+C:\Users\Justi\source\repos\JK_BlackjackClient\bin\Debug\netcoreapp3.1\BlackjackLibrary.dll
+C:\Users\Justi\source\repos\JK_BlackjackClient\bin\Debug\netcoreapp3.1\BlackjackLibrary.pdb
+C:\Users\Justi\source\repos\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.csprojAssemblyReference.cache
+C:\Users\Justi\source\repos\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.AssemblyInfoInputs.cache
+C:\Users\Justi\source\repos\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.AssemblyInfo.cs
+C:\Users\Justi\source\repos\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.csproj.CoreCompileInputs.cache
+C:\Users\Justi\source\repos\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.csproj.CopyComplete
+C:\Users\Justi\source\repos\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.dll
+C:\Users\Justi\source\repos\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.pdb
+C:\Users\Justi\source\repos\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.genruntimeconfig.cache
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.exe
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.deps.json
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.runtimeconfig.json
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.runtimeconfig.dev.json
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.dll
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\bin\Debug\netcoreapp3.1\JK_BlackjackClient.pdb
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\bin\Debug\netcoreapp3.1\BlackjackLibrary.dll
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\bin\Debug\netcoreapp3.1\BlackjackLibrary.pdb
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.csprojAssemblyReference.cache
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.AssemblyInfoInputs.cache
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.AssemblyInfo.cs
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.csproj.CoreCompileInputs.cache
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.csproj.CopyComplete
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.dll
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.pdb
+D:\Schoolwork\Simester 5\Component  .Net\JK_BlackjackClient\obj\Debug\netcoreapp3.1\JK_BlackjackClient.genruntimeconfig.cache

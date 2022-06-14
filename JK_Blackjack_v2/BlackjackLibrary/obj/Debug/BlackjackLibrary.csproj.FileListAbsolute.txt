@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackLibrary\obj\Debug\BlackjackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackLibrary\bin\Debug\BlackjackLibrary.dll.config
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackLibrary\bin\Debug\BlackjackLibrary.dll
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackLibrary\bin\Debug\BlackjackLibrary.pdb
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackLibrary\obj\Debug\BlackjackLibrary.dll
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackLibrary\obj\Debug\BlackjackLibrary.pdb
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackLibrary\obj\Debug\BlackjackLibrary.csprojAssemblyReference.cache

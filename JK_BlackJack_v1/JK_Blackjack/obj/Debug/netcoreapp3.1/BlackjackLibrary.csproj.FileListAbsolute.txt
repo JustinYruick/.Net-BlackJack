@@ -1,0 +1,18 @@
+C:\Users\Justi\source\repos\JK_Blackjack\bin\Debug\netcoreapp3.1\BlackjackLibrary.deps.json
+C:\Users\Justi\source\repos\JK_Blackjack\bin\Debug\netcoreapp3.1\BlackjackLibrary.dll
+C:\Users\Justi\source\repos\JK_Blackjack\bin\Debug\netcoreapp3.1\BlackjackLibrary.pdb
+C:\Users\Justi\source\repos\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.AssemblyInfoInputs.cache
+C:\Users\Justi\source\repos\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.AssemblyInfo.cs
+C:\Users\Justi\source\repos\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Justi\source\repos\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.dll
+C:\Users\Justi\source\repos\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.pdb
+C:\Users\Justi\source\repos\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.csprojAssemblyReference.cache
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\bin\Debug\netcoreapp3.1\BlackjackLibrary.deps.json
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\bin\Debug\netcoreapp3.1\BlackjackLibrary.dll
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\bin\Debug\netcoreapp3.1\BlackjackLibrary.pdb
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.csprojAssemblyReference.cache
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.AssemblyInfoInputs.cache
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.AssemblyInfo.cs
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.csproj.CoreCompileInputs.cache
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.dll
+D:\Schoolwork\Simester 5\Component  .Net\JK_Blackjack\obj\Debug\netcoreapp3.1\BlackjackLibrary.pdb

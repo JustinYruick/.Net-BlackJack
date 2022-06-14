@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_BlackjackClient\\JK_BlackjackClient.csproj": {}
+  },
+  "projects": {
+    "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_BlackjackClient\\JK_BlackjackClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_BlackjackClient\\JK_BlackjackClient.csproj",
+        "projectName": "JK_BlackjackClient",
+        "projectPath": "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_BlackjackClient\\JK_BlackjackClient.csproj",
+        "packagesPath": "C:\\Users\\Justi\\.nuget\\packages\\",
+        "outputPath": "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_BlackjackClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_Blackjack\\BlackjackLibrary.csproj": {
+                "projectPath": "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_Blackjack\\BlackjackLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_Blackjack\\BlackjackLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_Blackjack\\BlackjackLibrary.csproj",
+        "projectName": "BlackjackLibrary",
+        "projectPath": "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_Blackjack\\BlackjackLibrary.csproj",
+        "packagesPath": "C:\\Users\\Justi\\.nuget\\packages\\",
+        "outputPath": "D:\\Schoolwork\\Simester 5\\Component  .Net\\JK_Blackjack\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

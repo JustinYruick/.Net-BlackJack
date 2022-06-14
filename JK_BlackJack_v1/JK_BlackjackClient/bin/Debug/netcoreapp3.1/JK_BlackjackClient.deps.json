@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JK_BlackjackClient/1.0.0": {
+        "dependencies": {
+          "BlackjackLibrary": "1.0.0"
+        },
+        "runtime": {
+          "JK_BlackjackClient.dll": {}
+        }
+      },
+      "BlackjackLibrary/1.0.0": {
+        "runtime": {
+          "BlackjackLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JK_BlackjackClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlackjackLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

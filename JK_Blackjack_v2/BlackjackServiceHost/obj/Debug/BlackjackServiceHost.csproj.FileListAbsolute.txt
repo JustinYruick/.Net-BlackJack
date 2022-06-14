@@ -1,0 +1,11 @@
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\obj\Debug\BlackjackServiceHost.csprojAssemblyReference.cache
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\obj\Debug\BlackjackServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\bin\Debug\BlackjackServiceHost.exe.config
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\bin\Debug\BlackjackServiceHost.exe
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\bin\Debug\BlackjackServiceHost.pdb
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\bin\Debug\BlackjackLibrary.dll
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\bin\Debug\BlackjackLibrary.pdb
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\bin\Debug\BlackjackLibrary.dll.config
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\obj\Debug\BlackjackServiceHost.csproj.CopyComplete
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\obj\Debug\BlackjackServiceHost.exe
+C:\Users\kiril\source\repos\JK_Blackjack_v2\BlackjackServiceHost\obj\Debug\BlackjackServiceHost.pdb
